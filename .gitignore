@@ -1,0 +1,10 @@
+venv/
+xls/
+.idea/
+.DS_Store
+res/
+__pycache__/
+test_data.csv
+train_data.csv
+test_labels.csv
+train_labels.csv
